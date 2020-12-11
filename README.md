@@ -2,9 +2,7 @@
 
 This project was implemented by Negar Jafari and Afua Mensah in a group project in our Web Engineering class taught by Dr. Simmons.
 
-This project implemented for stock market signals and trends. This application's features are such as live stock signals, trending, send/receive 
-
-signals, real-time rates & charts, latest market news and updates and signal alerts.
+This project implemented for stock market signals and trends. This application's features are such as live stock signals, trending, send/receive signals, real-time rates & charts, latest market news and updates and signal alerts.
 
 # SsLogin
 
