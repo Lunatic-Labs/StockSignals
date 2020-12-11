@@ -8,6 +8,10 @@ signals and trends. This application's features are live stock signals, trade, s
 
 signals, real-time rates & charts, latest market news as well as updates and signal alerts.
 
+This project implemented for stock market signals and trends. This application's features are such as live stock signals, trending, 
+
+send/receive signals, real-time rates & charts, latest market news and updates and signal alerts.
+
 # SsLogin
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
